@@ -1,5 +1,5 @@
-# My-Portfolio
-My Portfolio Website 🌐<br>
+# My-Portfolio Website 🌐
+
 This repository contains the code and assets for my personal portfolio website, showcasing my skills, projects, and professional journey. It's a space where I share my work in UI/UX design, web development, and cloud technologies, and a place for potential clients and collaborators to learn more about my background and expertise.
 
 🔍 Features:
